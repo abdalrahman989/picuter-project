@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project pictuer _1", "project pictuer _1\project pictuer _1.csproj", "{F0326842-F195-4688-AA53-ADC33749CA34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0326842-F195-4688-AA53-ADC33749CA34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0326842-F195-4688-AA53-ADC33749CA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0326842-F195-4688-AA53-ADC33749CA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0326842-F195-4688-AA53-ADC33749CA34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED5222EA-B2D6-405A-904F-1AEBB49A633F}
+	EndGlobalSection
+EndGlobal

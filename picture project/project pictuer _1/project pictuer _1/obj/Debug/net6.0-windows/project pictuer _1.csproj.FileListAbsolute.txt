@@ -1,0 +1,17 @@
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\bin\Debug\net6.0-windows\project pictuer _1.exe
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\bin\Debug\net6.0-windows\project pictuer _1.deps.json
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\bin\Debug\net6.0-windows\project pictuer _1.runtimeconfig.json
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\bin\Debug\net6.0-windows\project pictuer _1.dll
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\bin\Debug\net6.0-windows\project pictuer _1.pdb
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\obj\Debug\net6.0-windows\project pictuer _1.csproj.AssemblyReference.cache
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\obj\Debug\net6.0-windows\project_pictuer__1.Form1.resources
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\obj\Debug\net6.0-windows\project pictuer _1.csproj.GenerateResource.cache
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\obj\Debug\net6.0-windows\project pictuer _1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\obj\Debug\net6.0-windows\project pictuer _1.AssemblyInfoInputs.cache
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\obj\Debug\net6.0-windows\project pictuer _1.AssemblyInfo.cs
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\obj\Debug\net6.0-windows\project pictuer _1.csproj.CoreCompileInputs.cache
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\obj\Debug\net6.0-windows\project pictuer _1.dll
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\obj\Debug\net6.0-windows\refint\project pictuer _1.dll
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\obj\Debug\net6.0-windows\project pictuer _1.pdb
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\obj\Debug\net6.0-windows\project pictuer _1.genruntimeconfig.cache
+C:\Users\abdal\Desktop\picture project\project pictuer _1\project pictuer _1\obj\Debug\net6.0-windows\ref\project pictuer _1.dll
